@@ -1,0 +1,36 @@
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD(Presntation).csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD(Presntation).csproj.GenerateResource.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD(Presntation).csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\bin\Debug\DVLD.exe
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\bin\Debug\DVLD.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\bin\Debug\DVLD -Business Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\bin\Debug\Data Accses  Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\bin\Debug\DVLD -Business Layer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\bin\Debug\Data Accses  Layer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD.Form1.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD(Presntation).csproj.CopyComplete
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD.exe
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD.Login.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DVLD\obj\Debug\DVLD.PeopleForm.resources
+C:\Users\0ol\Downloads\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\0ol\Downloads\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\0ol\Downloads\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\0ol\Downloads\DVLD\DVLD\bin\Debug\DVLD -Business Layer.dll
+C:\Users\0ol\Downloads\DVLD\DVLD\bin\Debug\Data Accses  Layer.dll
+C:\Users\0ol\Downloads\DVLD\DVLD\bin\Debug\DVLD -Business Layer.pdb
+C:\Users\0ol\Downloads\DVLD\DVLD\bin\Debug\Data Accses  Layer.pdb
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD(Presntation).csproj.AssemblyReference.cache
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.Form1.resources
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.Login.resources
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.PeopleForm.resources
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD(Presntation).csproj.GenerateResource.cache
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD(Presntation).csproj.CoreCompileInputs.cache
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD(Presntation).csproj.CopyComplete
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.pdb
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.Form2.resources
+C:\Users\0ol\Downloads\DVLD\DVLD\obj\Debug\DVLD.AddOREditPerson.resources

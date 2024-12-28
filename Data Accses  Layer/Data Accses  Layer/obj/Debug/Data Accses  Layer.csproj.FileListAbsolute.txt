@@ -1,0 +1,6 @@
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Data Accses  Layer\bin\Debug\Data Accses  Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Data Accses  Layer\bin\Debug\Data Accses  Layer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Data Accses  Layer\obj\Debug\Data Accses  Layer.csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Data Accses  Layer\obj\Debug\Data Accses  Layer.csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Data Accses  Layer\obj\Debug\Data Accses  Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Data Accses  Layer\obj\Debug\Data Accses  Layer.pdb
